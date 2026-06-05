@@ -1,2 +1,18 @@
-# Certificates
-A collection of my technical certifications and completed courses.
+# Professional Certifications 🎓
+
+A repository to track my continuous learning and technical upskilling.
+
+### 1. Google AI Essentials Specialization
+**Issuer:** Google (via Coursera)  
+**Date:** June 2026  
+**Credential ID:** 78H8AFI1V5IT  
+
+**Modules Completed:**
+1. Introduction to AI
+2. Maximize Productivity With AI Tools
+3. Discover the Art of Prompting
+4. Use AI Responsibly
+5. Stay Ahead of the AI Curve
+
+🔗 **[View Verified Credly Badge](https://www.credly.com/go/fsOLVZuH)**  
+📄 **[View Certificate Image](https://github.com/Sarvesh-Krishna/Certificates/blob/main/1.png)**
