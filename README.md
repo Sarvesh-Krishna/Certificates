@@ -16,3 +16,19 @@ A repository to track my continuous learning and technical upskilling.
 
 🔗 **[View Verified Credly Badge](https://www.credly.com/go/fsOLVZuH)**  
 📄 **[View Certificate Image](https://github.com/Sarvesh-Krishna/Certificates/blob/main/1.png)**
+
+---
+
+### 2. Google Prompting Essentials Specialization
+**Issuer:** Google (via Coursera)  
+**Date:** June 2026  
+**Credential ID:** EIB1DP3HPPAG  
+
+**Modules Completed:**
+1. Start Writing Prompts like a Pro
+2. Design Prompts for Everyday Work Tasks
+3. Speed Up Data Analysis and Presentation Building
+4. Use AI as a Creative or Expert Partner
+
+🔗 **[View Verified Credly Badge](https://www.credly.com/go/XxvPkMZe)**  
+📄 **[View Certificate Image](INSERT_LINK_TO_YOUR_CERTIFICATE_FILE_HERE)**
