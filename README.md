@@ -31,4 +31,4 @@ A repository to track my continuous learning and technical upskilling.
 4. Use AI as a Creative or Expert Partner
 
 🔗 **[View Verified Credly Badge](https://www.credly.com/go/XxvPkMZe)**  
-📄 **[View Certificate Image](INSERT_LINK_TO_YOUR_CERTIFICATE_FILE_HERE)**
+📄 **[View Certificate Image](https://github.com/Sarvesh-Krishna/Certificates/blob/main/2.png)**
